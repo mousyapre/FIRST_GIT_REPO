@@ -30,7 +30,7 @@ HTML CheetSheet
 `<form>` form tag `action` `method`= get/put/post
 
 - `<label>` text
-- `<input>` input text feild `name` `value` `type`= text/submit/reset/password/checkbox
+- `<input>` input text feild `id` `name` `value` `type`= text/submit/reset/password/checkbox
 - `<button>` button
 - `<textarea>`
-- `<select>` `<option>`
+- `<select>` `<option>` for dropdown box
